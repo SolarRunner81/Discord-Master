@@ -1,0 +1,50 @@
+{
+    "events": [
+        {
+            "bar": {
+                "barFight": {
+                    "name": "Bar Fight!!",
+                    "description": "You bumped into someone that was already having a bad day. A fight has spurred in the place!"
+                },
+                "nothing": {
+                    "name": "Quiet... Too Quiet...",
+                    "description": "The bar is quiet... and... pretty empty?"
+                },
+                "stinkEye": {
+                    "name": "Bad Side of Town",
+                    "description": "Everyone goes quiet when you enter and they turn and stare. They don't seem too happy to see your kind here"
+
+                }
+
+            }
+        },
+        {
+            "dungeon": {
+                "sleepingGoblins": {
+                    "name": "Slumber Party",
+                    "description": "There is a group of goblins sleeping and resting in this room. Did they hear you come in?"
+                }
+            },
+            "": {
+
+            }
+        },
+        {
+            "forest": {
+                "bandits": {
+                    "name": "Old Fashion Mugging",
+                    "description": "A rag tag of hooligans spring from the trees, armed and dangerous. Whatever you have, they want it"
+                }
+            }
+        },
+        {
+            "#tag": {
+                "#eventname": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+            
+        }
+    ]
+}
